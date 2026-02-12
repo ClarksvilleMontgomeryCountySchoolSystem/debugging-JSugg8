@@ -8,7 +8,7 @@ def snippet_1():
     # Expected output: Hello, Alex! You are 15 years old.
     name = "Alex"
     age = 15
-    print(f"Hello, {Name}!")
+    print(f"Hello, {name}!")
     print(f"You are {age} years old.")
 
 
